@@ -1,0 +1,6 @@
+{
+  "name": "摄影创意策划画布",
+  "description": "面向摄影工作者的专业创意策划、光位设计与灵感管理工具，支持AI客制化方案生成与灵感线稿构思。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
